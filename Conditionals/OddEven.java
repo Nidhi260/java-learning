@@ -5,10 +5,13 @@ public class OddEven {
         System.out.println("Enter the number: ");
         int num = sc.nextInt();
 
-        if(num % 2 ==0)
-        System.out.println("even");
-        else
-        System.out.println("odd");
+        // if(num % 2 ==0)
+        // System.out.println("even");
+        // else
+        // System.out.println("odd");
+        String ans;
+        ans = (num % 2 == 0) ? "even" :"odd";
+        System.out.println(ans);
       sc.close();  
     }
 
