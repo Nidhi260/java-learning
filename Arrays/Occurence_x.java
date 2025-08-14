@@ -2,6 +2,19 @@ import java.util.Scanner;
 
 public class Occurence_x {
 
+    static int lastOccurrence(int[] arr, int x){
+        int lastIndex = -1;
+        for (int i = 0; i < arr.length; i++) {
+            if(arr[i] == x){
+                lastIndex = i;
+            }
+        }
+        return lastIndex;
+    }
+
+
+
+
     static int countOccurrences(int [] arr, int x){
         int count = 0;
 
@@ -26,7 +39,9 @@ public class Occurence_x {
         System.out.println("Enter x : ");
         int x = sc.nextInt();
 
-        System.out.println("Count of X : " + countOccurrences(arr, x));
+       // System.out.println("Count of X : " + countOccurrences(arr, x));
+          System.out.println("Last occurrence of X : " + lastOccurrence(arr, x));
+
 
         sc.close();
     }
