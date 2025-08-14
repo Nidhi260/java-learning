@@ -1,4 +1,4 @@
-package OPPS.pw.skills;
+package pw.skills;
 
 public class App {
 

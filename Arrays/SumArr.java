@@ -1,5 +1,3 @@
-package Arrays;
-
 public class SumArr {
     void sumOfArr(){
     int arr[] = {1,4,8,6,2};

@@ -1,9 +1,10 @@
-package OPPS;
 
-import OPPS.pw.skills.App;
+import pw.skills.App;
 
 public class OutsidePwSkills {
-    App obj = new App();
-    
+public static void main(String[] args) {
+        App obj = new App();
+        System.out.println("App object created: " + obj);
+    }    
 
 }

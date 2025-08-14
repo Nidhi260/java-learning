@@ -1,4 +1,3 @@
-package Loops;
 
 public class MultipleOf5And7 {
     public static void main(String[] args) {

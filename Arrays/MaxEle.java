@@ -1,4 +1,3 @@
-package Arrays;
 
 public class MaxEle {
     public static void main(String[] args) {

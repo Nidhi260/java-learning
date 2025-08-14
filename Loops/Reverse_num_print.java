@@ -1,4 +1,3 @@
-package Loops;
 import java.util.Scanner;
 public class Reverse_num_print {
     public static void main(String[] args) {

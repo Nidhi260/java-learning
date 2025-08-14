@@ -1,4 +1,3 @@
-package Loops;
 import java.util.Scanner;
 public class CountDigits {
     public static void main(String[] args) {

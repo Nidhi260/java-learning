@@ -1,4 +1,3 @@
-package Loops.Pattern_Printing;
 import java.util.Scanner;
 public class Pyramid {
     public static void main(String[] args) {
