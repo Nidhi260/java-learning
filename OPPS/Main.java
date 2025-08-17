@@ -1,4 +1,3 @@
-package OPPS;
 import java.util.Scanner;
 
 class Algebra{

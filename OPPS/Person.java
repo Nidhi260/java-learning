@@ -1,4 +1,3 @@
-package OPPS;
 
 public class Person {
     int age = 22;

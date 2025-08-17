@@ -1,5 +1,4 @@
 package Arrays;
-
 class ArrayExample{
 
     void MultiArrays(){

@@ -1,4 +1,3 @@
-package OPPS;
 
 class Algebra{
     int a = 10;  //member variable 

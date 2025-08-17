@@ -1,5 +1,4 @@
 package Arrays;
-
 public class MaxEle {
     public static void main(String[] args) {
         int arr[] = {15,3,6,2,8,1};

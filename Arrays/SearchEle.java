@@ -1,5 +1,4 @@
 package Arrays;
-
 public class SearchEle {
    void FindEle(){
     int arr[] = {10,5,3,6,2,3,4};

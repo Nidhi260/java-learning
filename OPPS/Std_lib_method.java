@@ -1,4 +1,3 @@
-package OPPS;
 
 public class Std_lib_method {
     public static void main(String[] args) {

@@ -1,4 +1,3 @@
-package OPPS;
 
 public class Student {
     int age;
