@@ -1,3 +1,4 @@
+package Pattern_Printing;
 import java.util.Scanner;
 public class Hollow_Num_tri {
     public static void main(String[] args) {

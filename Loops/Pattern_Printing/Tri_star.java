@@ -1,3 +1,4 @@
+package Pattern_Printing;
 import java.util.Scanner;
 public class Tri_star {
     public static void main(String[] args) {

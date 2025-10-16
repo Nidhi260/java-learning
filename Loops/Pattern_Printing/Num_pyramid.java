@@ -1,3 +1,4 @@
+package Pattern_Printing;
 import java.util.Scanner;
 public class Num_pyramid {
     public static void main(String[] args) {

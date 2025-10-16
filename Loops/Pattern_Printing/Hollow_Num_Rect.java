@@ -1,4 +1,4 @@
-
+package Pattern_Printing;
 import java.util.Scanner;
 public class Hollow_Num_Rect {
     public static void main(String[] args) {

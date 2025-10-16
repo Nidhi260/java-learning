@@ -1,3 +1,4 @@
+package Pattern_Printing;   
 import java.util.Scanner;
 public class Num_Rect {
     public static void main(String[] args) {
